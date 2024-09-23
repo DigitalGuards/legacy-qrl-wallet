@@ -11,7 +11,7 @@ DEFAULT_NETWORKS = [{
   id: 'mainnet',
   name: 'Mainnet',
   disabled: '',
-  explorerUrl: 'https://explorer.theqrl.org',
+  explorerUrl: 'https://xmsscan.com',
   type: 'both',
   healthy: false,
   nodes: [{
