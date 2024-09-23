@@ -28,7 +28,7 @@ if ((!openWalletPref) || (openWalletPref === 'undefined')) {
 }
 
 // Developer note
+console.log('A storm is coming')
 console.log('qrl-wallet - ', WALLET_VERSION)
 console.log('Work with us! jobs@theqrl.org')
-console.log('Found a security bug? security@theqrl.org')
-console.log('Found a problem? https://github.com/theQRL/qrl-wallet/issues')
+console.log('Hosted and secured by DigitalGuards.nl')
