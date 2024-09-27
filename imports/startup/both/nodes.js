@@ -59,7 +59,7 @@ DEFAULT_NETWORKS = [{
   id: 'localhost',
   name: 'Localhost (Desktop App Only)',
   disabled: '',
-  explorerUrl: 'http://explorer.theqrl.org',
+  explorerUrl: 'http://xmsscan.com',
   type: 'desktop',
   healthy: false,
   nodes: [{
