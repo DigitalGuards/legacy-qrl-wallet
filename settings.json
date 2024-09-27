@@ -39,7 +39,7 @@
         "id": "testnet",
         "name": "Testnet",
         "disabled": "",
-        "explorerUrl": "https://testnet-explorer.theqrl.org",
+        "explorerUrl": "https://xmsscan.com",
         "type": "both",
         "healthy": false,
         "nodes": [
